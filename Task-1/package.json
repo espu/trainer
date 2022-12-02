@@ -1,7 +1,6 @@
 {
   "name": "trainer",
   "version": "0.1.0",
-  "homepage": "https://espu.github.io/personaltrainer",
   "private": true,
   "dependencies": {
     "@date-io/date-fns": "^2.16.0",
