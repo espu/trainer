@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trainer/static/css/main.db0b1c80.css",
+    "main.js": "/trainer/static/js/main.2862a277.js",
+    "static/js/787.1422dcb8.chunk.js": "/trainer/static/js/787.1422dcb8.chunk.js",
+    "index.html": "/trainer/index.html",
+    "main.db0b1c80.css.map": "/trainer/static/css/main.db0b1c80.css.map",
+    "main.2862a277.js.map": "/trainer/static/js/main.2862a277.js.map",
+    "787.1422dcb8.chunk.js.map": "/trainer/static/js/787.1422dcb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db0b1c80.css",
+    "static/js/main.2862a277.js"
+  ]
+}
